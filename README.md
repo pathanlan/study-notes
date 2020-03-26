@@ -6,4 +6,4 @@ Notes from my study of software development.
 
 |Reference|Location|Directory|
 |-|-|-|
-|The Twelve Factor App|[URL](https://12factor.net/)|[twelve-factor-app](.\twelve-factor-app)|
+|The Twelve Factor App|[URL](https://12factor.net/)|[twelve-factor-app](./twelve-factor-app/notes.md)|
