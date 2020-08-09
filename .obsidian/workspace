@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "01 inbox/20200809_2117.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -69,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "03 index/zettlekasten-example-topic.md",
-    "02 reference/zettlekasten-example-reference.md",
-    "01 inbox/zettlekasten-example-inbox.md",
-    "01 inbox/twelve-factor-app.md",
-    "01 inbox/20200809_1337.md"
+    "01 inbox/20200809_2117.md",
+    "01 inbox/20200809_2052.md",
+    "01 inbox/20200809_1337.md",
+    "01 inbox/Untitled.md",
+    "Untitled 2.md"
   ]
 }
